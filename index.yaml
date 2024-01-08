@@ -8,7 +8,7 @@ entries:
           url: https://github.com/prometheus-community/helm-charts
     apiVersion: v2
     appVersion: 2.10.1
-    created: "2024-01-08T23:51:25.279926+03:00"
+    created: "2024-01-09T00:51:36.6481214+03:00"
     description: Install kube-state-metrics to generate and expose cluster-level metrics
     digest: 9c5e930efdb6129472fe1960df151253bef9f41685c325dd3dd01213779cc1da
     home: https://github.com/kubernetes/kube-state-metrics/
@@ -40,7 +40,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 1.7.0
-    created: "2024-01-08T23:51:25.2816791+03:00"
+    created: "2024-01-09T00:51:36.649772+03:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -80,10 +80,10 @@ entries:
           url: https://docs.victoriametrics.com/vmagent.html
     apiVersion: v1
     appVersion: v1.96.0
-    created: "2024-01-08T23:51:25.2851691+03:00"
+    created: "2024-01-09T00:51:36.651468+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
-    digest: 9c64c4333fdfec6200e06a94cf346936211165940e8ae2739991fdfc62823ddf
+    digest: d4550f2cd884fd4d4b99366951a7e7dc9d120cfc2eef80875dce8451c1eea053
     home: https://github.com/VictoriaMetrics/helm-charts
     icon: https://avatars.githubusercontent.com/u/43720803?s=200&v=4
     keywords:
@@ -119,7 +119,7 @@ entries:
           url: https://docs.victoriametrics.com/vmalert.html
     apiVersion: v1
     appVersion: v1.96.0
-    created: "2024-01-08T23:51:25.2868801+03:00"
+    created: "2024-01-09T00:51:36.653755+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 44dd6d5ef2fed3904063ae6a886130d74cc4fef838fd475313ace857850dc6e1
@@ -143,4 +143,4 @@ entries:
     urls:
     - https://gen7777.github.io/helm/victoria-metrics-alert-0.8.6.tgz
     version: 0.8.6
-generated: "2024-01-08T23:51:25.2786656+03:00"
+generated: "2024-01-09T00:51:36.6468737+03:00"
